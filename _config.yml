@@ -1,6 +1,6 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Jacob Brown
+bio: aspiring data scientist 
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -8,15 +8,15 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/head.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://drive.google.com/file/d/15F-WndetxP7wvKM20Ouu1aHU94-_5omu/view?usp=sharing
 
-url: https://sergiokopplin.github.io/indigo
+url: https://jacob-brown.github.io/
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -34,23 +34,24 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+# facebook: myfacebook
+# twitter: mytwitter
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+email: jacob.42.brown@gmail.com
+github: jacob-brown
+linkedin: jacob-42-brown
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+
 
 authors:
   johndoe:
@@ -80,11 +81,11 @@ pagination:
   permalink: "/:num/" # pagination link that will be appended
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+#projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+#blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true

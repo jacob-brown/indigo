@@ -4,39 +4,26 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+I’m an aspiring data scientist, based in Perth, WA. Previously I set-up and ran [greensquirrel.io](https://www.greensquirrel.io/){:target="_blank"}, a web dev business aiming to help small businesses get online for the first time, and operate in an eco-friendly and sustainable way! I completed my Masters of Research in Computational Methods in Ecology and Evolution (what a mouthful! CMEE for short) at Imperial College London in 2020. I was investigating the feasibility of a direct-to-consumer genetics tool for horses. Prior to this, I was working in rural South Africa at the [Kalahari Meerkat Project](https://kalahari-meerkats.com/kmp/){:target="_blank"}. I managed a team of biological research assistants for 2 years at the field site, prior to that I was an assistant for a year. During this period I was involved in the management of the SQL database, and built several applications for data input, quality checks, and interactive maps. I am passionate about data and knowledge and I love to learn new techniques.
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
 	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>R</li>
+	<li>SQL</li>
+	<li>Git</li>
+	<li>Statistical analysis</li>
+	<li>Modelling</li>
+	<li>Command line (*nix)</li>
+	<li>Data processing</li>
+	<li>Data visualization</li>
+	<li>Database management</li>
+	<li>HPC usage</li>
 </ul>
 
+<!--
 <h2>Projects</h2>
 
 <ul>
@@ -44,3 +31,5 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 	<li><a href="https://github.com/">Ipsum Dolor</a></li>
 	<li><a href="https://github.com/">Dolor Lorem</a></li>
 </ul>
+
+-->
